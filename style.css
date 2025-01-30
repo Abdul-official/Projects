@@ -284,8 +284,23 @@
         width: 10px;
         height: 10px;
     }
-
+     .title{
+        /* border: 1px solid red; */
+        margin: 30px 0 0 0 ;
+        padding: 20px 0 0 0 ;
+     }
     .title1 p{
         font-size: 30px;
+    }
+    .sign{
+        /* border: 1px solid red; */
+        align-content: end;
+        /* width: 300px; */
+        /* margin: 0 0 0 40px; */
+    }
+    .sign span{
+        /* border: 1px solid red; */
+        /* padding: 10px 0 0 0; */
+        font-size:13px ;
     }
 } 
